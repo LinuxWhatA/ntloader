@@ -12,3 +12,5 @@
 initrd.cpio
 initrd.lz1
 raw/*
+.envrc
+.direnv
